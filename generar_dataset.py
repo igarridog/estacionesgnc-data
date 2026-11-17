@@ -126,9 +126,15 @@ def descargar_dataset(
         f"{id_combustible}"
     )
 
-    response = requests.get(
+    session = requests.Session()
+
+    response = session.get(
         url,
-        timeout=60
+        timeout=120,
+        headers={
+            "User-Agent":
+                "Mozilla/5.0"
+        }
     )
 
     response.raise_for_status()
