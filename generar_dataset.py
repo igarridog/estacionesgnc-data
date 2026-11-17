@@ -1,5 +1,5 @@
 import json
-import requests
+import subprocess
 
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -126,20 +126,20 @@ def descargar_dataset(
         f"{id_combustible}"
     )
 
-    session = requests.Session()
-
-    response = session.get(
-        url,
-        timeout=120,
-        headers={
-            "User-Agent":
-                "Mozilla/5.0"
-        }
+    resultado = subprocess.run(
+        [
+            "curl",
+            "-L",
+            url
+        ],
+        capture_output=True,
+        text=True,
+        check=True
     )
 
-    response.raise_for_status()
-
-    return response.json()
+    return json.loads(
+        resultado.stdout
+    )
 
 
 def cargar_dataset_existente():
