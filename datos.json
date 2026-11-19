@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ultimaGeneracion": "2026-11-19T14:31:17.303554+01:00",
+  "ultimaGeneracion": "2026-11-19T23:16:34.117795+01:00",
   "fechaDataset": "2026-11-19",
   "numeroEstaciones": 143,
   "estaciones": [
@@ -314,12 +314,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -739,7 +739,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.976,
+          "precio": 1.979,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -760,7 +760,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -781,7 +781,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.844,
+          "precio": 1.904,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -1033,7 +1033,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -1495,12 +1495,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.979,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.966,
+          "precio": 1.979,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2277,12 +2277,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.949,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.949,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2303,7 +2303,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.986,
+          "precio": 1.989,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2429,12 +2429,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.976,
+          "precio": 1.979,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.976,
+          "precio": 1.979,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2476,7 +2476,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.986,
+          "precio": 1.989,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2833,12 +2833,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -2985,7 +2985,7 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
@@ -3006,12 +3006,12 @@
       "combustibles": {
         "18": {
           "tipo": "GNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         },
         "31": {
           "tipo": "BGNC",
-          "precio": 1.966,
+          "precio": 1.969,
           "fechaActualizacion": "2026-11-19"
         }
       }
