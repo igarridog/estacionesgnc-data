@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ultimaGeneracion": "2026-11-26T03:55:06.755380+01:00",
+  "ultimaGeneracion": "2026-11-26T13:51:40.745685+01:00",
   "fechaDataset": "2026-11-26",
   "numeroEstaciones": 143,
   "estaciones": [
@@ -661,27 +661,6 @@
       }
     },
     {
-      "id": "13332",
-      "nombre": "HAM BILBAO",
-      "direccion": "CALLE REFRADIGAS, 1",
-      "codigoPostal": "48001",
-      "municipio": "Bilbao",
-      "provincia": "BIZKAIA",
-      "idMunicipio": "7484",
-      "idProvincia": "48",
-      "idComunidad": "16",
-      "horario": "L-D: 24H",
-      "latitud": 43.349972,
-      "longitud": -3.07225,
-      "combustibles": {
-        "31": {
-          "tipo": "BGNC",
-          "precio": 1.904,
-          "fechaActualizacion": "2026-11-26"
-        }
-      }
-    },
-    {
       "id": "15511",
       "nombre": "ZABALGARBI GNC",
       "direccion": "CAMINO ARTIGAS, 10",
@@ -740,6 +719,27 @@
         "18": {
           "tipo": "GNC",
           "precio": 1.979,
+          "fechaActualizacion": "2026-11-26"
+        }
+      }
+    },
+    {
+      "id": "13332",
+      "nombre": "HAM BILBAO",
+      "direccion": "CALLE refradigas, 0",
+      "codigoPostal": "48508",
+      "municipio": "Zierbena",
+      "provincia": "BIZKAIA",
+      "idMunicipio": "7567",
+      "idProvincia": "48",
+      "idComunidad": "16",
+      "horario": "L-D: 24H",
+      "latitud": 43.350167,
+      "longitud": -3.072611,
+      "combustibles": {
+        "31": {
+          "tipo": "BGNC",
+          "precio": 1.904,
           "fechaActualizacion": "2026-11-26"
         }
       }
